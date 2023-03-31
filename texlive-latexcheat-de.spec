@@ -1,6 +1,6 @@
 Name:		texlive-latexcheat-de
 Version:	35702
-Release:	1
+Release:	2
 Summary:	A LaTeX cheat sheet, in German
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latexcheat-de
