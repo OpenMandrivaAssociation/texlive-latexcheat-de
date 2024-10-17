@@ -3,7 +3,7 @@ Version:	35702
 Release:	2
 Summary:	A LaTeX cheat sheet, in German
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latexcheat-de
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latexcheat-de
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latexcheat-de.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latexcheat-de.doc.r%{version}.tar.xz
